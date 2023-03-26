@@ -1,0 +1,20 @@
+/* Font google */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* 
+    font-weight:
+    100 thin -> 200 extra light -> 300 light -> 400 regular -> 500 medium 
+    -> 600 semibold -> 700 bold -> 800 extrabold -> 900 black
+ */
+
+/* Create variables */
+:root {}
+
+/* format layout*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 24px;
+}
